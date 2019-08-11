@@ -90,5 +90,5 @@ http request version=HTTP/1.1, method=GET, host=localhost:10000, uri=/, receive 
 http request version=HTTP/1.1, method=POST, host=localhost:10000, uri=/, receive timestamp=Sun, 11 Aug 2019 17:45:34 CST, handle cost time=0s, status=401, size=13
 ```
 ### curl 测试截图    
-[curl_test1.png](https://github.com/GrassInWind2019/GoDemo/blob/master/GoMiddleware/curl_test1.png)
-[curl_test2.png](https://github.com/GrassInWind2019/GoDemo/blob/master/GoMiddleware/curl_test2.png)
+![curl_test1.png](https://github.com/GrassInWind2019/GoDemo/blob/master/GoMiddleware/curl_test1.png)  
+![curl_test2.png](https://github.com/GrassInWind2019/GoDemo/blob/master/GoMiddleware/curl_test2.png)  
